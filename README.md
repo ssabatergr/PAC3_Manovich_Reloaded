@@ -27,5 +27,5 @@ Holly Herndon ha creat àlbums utilitzant un algoritme de IA que ha estat entren
 L'ús de IA en la música representa una forma d'hibridació tecnològica on la creativitat humana es combina amb la capacitat computacional de la IA. Aquest procés exemplifica la integració de tecnologies digitals en l'art, creant noves possibilitats creatives.
 
 ## Recursos
-- [Enllaç 1]([URL](https://www.ikea.com/es/ca/))
-- [Enllaç 2]([URL](https://en.wikipedia.org/wiki/Holly_Herndon))
+- [Enllaç 1](https://www.ikea.com/es/ca/)
+- [Enllaç 2](https://en.wikipedia.org/wiki/Holly_Herndon)
